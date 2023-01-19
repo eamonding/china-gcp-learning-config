@@ -5,7 +5,7 @@ label: gitops
 replicas: 3
 image:
   repository: asia.gcr.io/weighty-diagram-374502/china_gcp_learning # 変更箇所 DOCKERHUB_REPO_NAME
-  tag: 03db14277c67643307666a2ea5766c5be771bde2
+  tag: f29b45e5c254b7b3a65813c683c6de666aa1097e
 
 imageConfig:
   pullPolicy: IfNotPresent
